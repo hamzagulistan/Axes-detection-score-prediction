@@ -1,0 +1,7 @@
+Shoot detector config1
+minColour1=30
+maxColour1=55
+minColour2=30
+maxColour2=55
+minArea=500
+maxArea=1200
